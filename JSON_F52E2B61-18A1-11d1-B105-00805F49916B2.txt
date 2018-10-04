@@ -1,0 +1,4 @@
+﻿[{"Id":1,"Nome":"Felipe Erlisson","Email":"felipeerlisson@hotmail.com","Data_de_Nascimento":"1997-12-03","Telefone":2,"EndereçosID":1},
+{"Id":2,"Nome":"Flávia Rocha","Email":"flaviarocha@hotmail.com","Data_de_Nascimento":"1994-05-20","Telefone":1,"EndereçosID":2},{"Id":3,"Nome":"Erlene ","Email":"lene@hotmail.com","Data_de_Nascimento":"1968-01-03","Telefone":1,"EndereçosID":2},{"Id":4,"Nome":"Dilene Rocha","Email":"dedi@hotmail.com","Data_de_Nascimento":"1988-05-20","Telefone":2,"EndereçosID":2}
+ 
+]
